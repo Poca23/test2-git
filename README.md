@@ -6,3 +6,4 @@
 
 Commit "Change README.md"
 Modification sur branche "new-branch" : ajout d'une ligne dans le fichier README.md
+V2 de "Modification sur branche "new-branch" : ajout d'une ligne dans le fichier README.md"
